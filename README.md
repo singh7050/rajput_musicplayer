@@ -1,7 +1,7 @@
 ### Best Smart Voice Chat Music Bot For Telegram Groups ...
 
 
-<p align="center"><a href="https://t.me/xmartperson"><img src="https://telegra.ph/file/0d0cd252270861a6838ce.jpg"></a></p>
+<p align="center"><a href="https://t.me/abhi_ss99"><img src="https://telegra.ph/file/275aa48133f6e60edf9dc.jpg"></a></p>
 
 
 
@@ -28,4 +28,4 @@ Before deploy fork this repo and star and change readme.md
 
 ### Copy Pasters You Can Copy This But Must Give Credits ...
 
-#### Main Developer = [ᴘᴇʀғᴇᴄᴛ sᴀʟɪᴍ](https://t.me/Xmartperson)
+#### Main Developer = [Mr abhi](https://t.me/abhi_ss99)
